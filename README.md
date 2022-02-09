@@ -6,7 +6,7 @@ Neste projeto apliquei melhores práticas em testes unitários usadas no mercado
 
 ```bash
 # clone o projeto:
-git clone https://github.com/malgany/FlappyIA.git
+https://github.com/malgany/PHPUnitProject
 
 #  rodar comando composer:
 composer install
