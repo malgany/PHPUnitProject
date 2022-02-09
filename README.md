@@ -1,6 +1,6 @@
 # PHPUnitProject
 
-Neste projeto apliquei melhores práticas em testes unitários usadas no mercado e nas grandes startups.
+In this project I applied best practices in unit tests used in the market and in large startups.
 
 ## Installation
 
