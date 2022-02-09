@@ -5,15 +5,15 @@ In this project I applied best practices in unit tests used in the market and in
 ## Installation
 
 ```bash
-# clone o projeto:
+# clone the project:
 https://github.com/malgany/PHPUnitProject
 
-#  rodar comando composer:
+#  run composer command:
 composer install
 
-# executar:
+# run:
 phpunit src
-# ou
+# or
 ./vendor/bin/phpunit src
 ```
 
